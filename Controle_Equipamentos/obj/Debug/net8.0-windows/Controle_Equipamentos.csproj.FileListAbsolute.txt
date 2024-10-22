@@ -1,0 +1,17 @@
+C:\Projetos C#\Controle_Equipamentos\bin\Debug\net8.0-windows\Controle_Equipamentos.exe
+C:\Projetos C#\Controle_Equipamentos\bin\Debug\net8.0-windows\Controle_Equipamentos.deps.json
+C:\Projetos C#\Controle_Equipamentos\bin\Debug\net8.0-windows\Controle_Equipamentos.runtimeconfig.json
+C:\Projetos C#\Controle_Equipamentos\bin\Debug\net8.0-windows\Controle_Equipamentos.dll
+C:\Projetos C#\Controle_Equipamentos\bin\Debug\net8.0-windows\Controle_Equipamentos.pdb
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.Login.resources
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.csproj.GenerateResource.cache
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.AssemblyInfoInputs.cache
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.AssemblyInfo.cs
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.sourcelink.json
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.dll
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\refint\Controle_Equipamentos.dll
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.pdb
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\Controle_Equipamentos.genruntimeconfig.cache
+C:\Projetos C#\Controle_Equipamentos\obj\Debug\net8.0-windows\ref\Controle_Equipamentos.dll
